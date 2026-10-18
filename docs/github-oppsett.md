@@ -24,7 +24,7 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 
 | Setting | Choose |
 | --- | --- |
-| Allow merge commits | Off |
+| Allow merge commits | Off if GitHub lets you, harmless if left on |
 | Allow squash merging | **On**, with default commit message **Pull request title and description** |
 | Allow rebase merging | Off |
 | Always suggest updating pull request branches | **On** |
