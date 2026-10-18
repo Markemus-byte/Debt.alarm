@@ -24,7 +24,7 @@ Inkassoen stopper når et dødsfall er registrert. De verste tilfellene er døds
 
 Målet er ikke å slette gjeld. Det er å sørge for at stillhet blir behandlet som et varsel, ikke som en forretningsmulighet.
 
-Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rettskart.md) og [forslaget](docs/forslag.md).
+Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rettskart.md), [forslaget](docs/forslag.md) og [det tekniske konseptet](docs/teknisk-konsept.md).
 
 ---
 
@@ -46,7 +46,7 @@ Collection stops once a death is registered. The worst cases are deaths nobody d
 
 The goal is not to cancel debts. It is to make sure silence is treated as a warning, not as a business opportunity.
 
-See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](docs/rettskart.md) and the [proposal](docs/forslag.md).
+See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](docs/rettskart.md), the [proposal](docs/forslag.md) and the [technical concept](docs/teknisk-konsept.md).
 
 ---
 

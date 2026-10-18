@@ -12,7 +12,7 @@
 - [x] **Map the actors:** who sees each warning sign today (Posten, NAV, health services, banks, the bailiff, collection firms) and what duties they have
 - [x] **Legal map:** what inkassoloven, god inkassoskikk and Finanstilsynet's rules already require, and where the gaps are ([docs/rettskart.md](docs/rettskart.md))
 - [x] **Proposal v1:** the early warning system, written as a policy proposal ([docs/forslag.md](docs/forslag.md))
-- [ ] **Technical concept:** how a privacy-safe yes/no flag could be shared between parties
+- [x] **Technical concept:** how a privacy-safe yes/no flag could be shared between parties ([docs/teknisk-konsept.md](docs/teknisk-konsept.md), [prototype](prototype/README.md))
 
 ## Phase 2: Open for contributions
 
