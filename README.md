@@ -52,7 +52,9 @@ See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](
 
 ## Status
 
-The project is in its foundation phase. Contributions will open later; see [CONTRIBUTING.md](CONTRIBUTING.md).
+The foundation phase is complete. Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md), [GOVERNANCE.md](GOVERNANCE.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+
+Founded by Morten ([@Markemus-byte](https://github.com/Markemus-byte)), October 2026. Startet av Morten, oktober 2026.
 
 **No personal data about real debtors is ever published in this repository.**
 

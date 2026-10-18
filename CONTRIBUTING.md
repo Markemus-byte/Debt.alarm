@@ -1,8 +1,8 @@
 # Contributing / Bidra
 
-Thank you for wanting to help. The project is still in its foundation phase, and contributions will open fully in Phase 2 (see [ROADMAP.md](ROADMAP.md)). Until then, issues and suggestions are welcome.
+Thank you for wanting to help. The foundation is in place (see [ROADMAP.md](ROADMAP.md)), and the project is now open for stories, knowledge, sources and code.
 
-Takk for at du vil hjelpe. Prosjektet er fortsatt i grunnmursfasen, og bidrag åpnes fullt i fase 2. Inntil da tar vi gjerne imot forslag.
+Takk for at du vil hjelpe. Grunnmuren er på plass, og prosjektet er nå åpent for historier, kunnskap, kilder og kode.
 
 ## What we need / Hva vi trenger
 
@@ -22,14 +22,15 @@ Takk for at du vil hjelpe. Prosjektet er fortsatt i grunnmursfasen, og bidrag å
 
 ## How to contribute
 
-1. Open an issue using one of the templates (story, idea or source).
-2. For changes to documents or code, open a pull request with a short description.
-3. Back factual claims with a link to a source.
+1. **Just want to share a thought?** Start a conversation under Discussions.
+2. **A story, idea or source?** Open an issue using one of the templates.
+3. **A change to documents or code?** Fork the repository and open a pull request with a short description. The founder reviews and decides what is merged (see [GOVERNANCE.md](GOVERNANCE.md)).
+4. Back factual claims with a link to a source.
 
-Be respectful. Many people here have been through hard things.
+## Licensing of contributions / Lisens for bidrag
 
-## License and sign-off / Lisens og signering
+By contributing, you agree that your contribution is licensed under the same terms as the project: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for text and MIT for code. You keep the credit for your contribution, and you can add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
-By contributing you agree that your text is licensed under CC BY-SA 4.0 and your code under AGPL-3.0-or-later, the same terms as the rest of the project. Commits must be signed off (`git commit -s`), which certifies that you have the right to contribute under these terms ([Developer Certificate of Origin](https://developercertificate.org/)).
+Ved å bidra godtar du at bidraget lisensieres på samme vilkår som prosjektet. Du beholder æren for bidraget ditt.
 
-Ved å bidra godtar du at tekst lisensieres under CC BY-SA 4.0 og kode under AGPL-3.0-or-later, samme vilkår som resten av prosjektet. Commits må signeres (`git commit -s`), som bekrefter at du har rett til å bidra på disse vilkårene.
+Be respectful. Many people here have been through hard things. See the [code of conduct](CODE_OF_CONDUCT.md).
