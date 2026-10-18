@@ -27,10 +27,10 @@ Takk for at du vil hjelpe. Grunnmuren er på plass, og prosjektet er nå åpent 
 3. **A change to documents or code?** Fork the repository and open a pull request with a short description. The founder reviews and decides what is merged (see [GOVERNANCE.md](GOVERNANCE.md)).
 4. Back factual claims with a link to a source.
 
-## Licensing of contributions / Lisens for bidrag
+## Licensing and sign-off / Lisens og signering
 
-By contributing, you agree that your contribution is licensed under the same terms as the project: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) for text and MIT for code. You keep the credit for your contribution, and you can add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md).
+By contributing, you agree that your contribution is licensed under the same terms as the project: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for text and [AGPL-3.0-or-later](LICENSE) for code. You keep the credit for your contribution, and you can add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md). Commits must be signed off (`git commit -s`), which certifies that you have the right to contribute under these terms ([Developer Certificate of Origin](https://developercertificate.org/)).
 
-Ved å bidra godtar du at bidraget lisensieres på samme vilkår som prosjektet. Du beholder æren for bidraget ditt.
+Ved å bidra godtar du at bidraget lisensieres på samme vilkår som prosjektet: CC BY-SA 4.0 for tekst og AGPL-3.0-or-later for kode. Du beholder æren for bidraget ditt. Commits må signeres (`git commit -s`), som bekrefter at du har rett til å bidra på disse vilkårene.
 
 Be respectful. Many people here have been through hard things. See the [code of conduct](CODE_OF_CONDUCT.md).
