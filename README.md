@@ -67,4 +67,4 @@ Debt.alarm (Gjeldsalarm) ble startet i 2026 av [Markemus-byte](https://github.co
 - Text and documentation: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit Markemus-byte / Debt.alarm and share adaptations under the same license.
 - Code: [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html). Anyone who modifies the code and offers it as a service must publish their changes under the same license.
 
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE) (code), [LICENSE-docs](LICENSE-docs) (text) and [NOTICE](NOTICE) (copyright and origin).

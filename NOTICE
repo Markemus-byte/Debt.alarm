@@ -1,0 +1,17 @@
+Debt.alarm (Gjeldsalarm)
+Copyright (c) 2026 Markemus-byte and Debt.alarm contributors
+Project started 2026 by Markemus-byte: https://github.com/Markemus-byte/Debt.alarm
+
+This repository uses two licenses:
+
+1. Source code (prototype/, .github/workflows/ and all other code files) is
+   licensed under the GNU Affero General Public License, version 3 or later
+   (AGPL-3.0-or-later). See LICENSE.
+   SPDX-License-Identifier: AGPL-3.0-or-later
+
+2. Text and documentation (README, ROADMAP, CONTRIBUTING, docs/ and all other
+   Markdown and prose files) are licensed under the Creative Commons
+   Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+   See LICENSE-docs. You must give credit to Markemus-byte / Debt.alarm and
+   share adaptations under the same license.
+   https://creativecommons.org/licenses/by-sa/4.0/
