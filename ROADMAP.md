@@ -8,7 +8,7 @@
 ## Phase 1: Foundation (now)
 
 - [x] Set up the repository, README and roadmap
-- [ ] **Analysis:** how a claim grows from invoice to enforcement, with real fee levels and sources ([docs/analyse.md](docs/analyse.md))
+- [x] **Analysis:** how a claim grows from invoice to enforcement, with real fee levels and sources ([docs/analyse.md](docs/analyse.md))
 - [ ] **Map the actors:** who sees each warning sign today (Posten, NAV, health services, banks, the bailiff, collection firms) and what duties they have
 - [ ] **Legal map:** what inkassoloven, god inkassoskikk and Finanstilsynet's rules already require, and where the gaps are
 - [ ] **Proposal v1:** the early warning system, written as a policy proposal ([docs/forslag.md](docs/forslag.md))
