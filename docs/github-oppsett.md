@@ -30,6 +30,19 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 | Always suggest updating pull request branches | **On** |
 | Automatically delete head branches | **On** |
 
+**Allow auto-merge** is greyed out while the repo is private. You don't need it.
+
+## Commits, Archives and Issues
+
+Leave these as GitHub sets them:
+
+| Setting | Choose |
+| --- | --- |
+| Require contributors to sign off on web-based commits | Off |
+| Allow comments on individual commits | On (turn off if spam starts) |
+| Include Git LFS objects in archives | Off |
+| Auto-close issues with merged linked pull requests | On |
+
 ## Protect the main branch / Beskytt hovedgrenen
 
 **Settings → Rules → Rulesets → New ruleset → New branch ruleset.** Branch rules on a private repository need a paid GitHub plan, so do this right after making the repo public.
