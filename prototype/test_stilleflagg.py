@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Markemus-byte and Debt.alarm contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
 import unittest
 from datetime import date, timedelta
 

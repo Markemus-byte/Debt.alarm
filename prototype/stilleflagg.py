@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Markemus-byte and Debt.alarm contributors
+# SPDX-License-Identifier: AGPL-3.0-or-later
 """Reference model of the Silence Flag rules (docs/forslag.md, docs/teknisk-konsept.md).
 
 This is a prototype for discussion, not a production service. It keeps

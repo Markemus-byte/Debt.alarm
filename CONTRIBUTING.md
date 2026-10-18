@@ -27,3 +27,9 @@ Takk for at du vil hjelpe. Prosjektet er fortsatt i grunnmursfasen, og bidrag å
 3. Back factual claims with a link to a source.
 
 Be respectful. Many people here have been through hard things.
+
+## License and sign-off / Lisens og signering
+
+By contributing you agree that your text is licensed under CC BY-SA 4.0 and your code under AGPL-3.0-or-later, the same terms as the rest of the project. Commits must be signed off (`git commit -s`), which certifies that you have the right to contribute under these terms ([Developer Certificate of Origin](https://developercertificate.org/)).
+
+Ved å bidra godtar du at tekst lisensieres under CC BY-SA 4.0 og kode under AGPL-3.0-or-later, samme vilkår som resten av prosjektet. Commits må signeres (`git commit -s`), som bekrefter at du har rett til å bidra på disse vilkårene.

@@ -56,6 +56,15 @@ The project is in its foundation phase. Contributions will open later; see [CONT
 
 **No personal data about real debtors is ever published in this repository.**
 
-## License
+## Origin / Opphav
 
-Text and documentation: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code: MIT. See [LICENSE](LICENSE).
+Debt.alarm (Gjeldsalarm) was started in 2026 by [Markemus-byte](https://github.com/Markemus-byte), who holds the copyright to the original idea, texts and code. The project is open so that others can build on it, but attribution to the origin must follow every copy and adaptation (see the licenses below).
+
+Debt.alarm (Gjeldsalarm) ble startet i 2026 av [Markemus-byte](https://github.com/Markemus-byte), som har opphavsretten til den opprinnelige ideen, tekstene og koden. Prosjektet er åpent slik at andre kan bygge videre, men kreditering av opphavet skal følge hver kopi og bearbeiding (se lisensene under).
+
+## License / Lisens
+
+- Text and documentation: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit Markemus-byte / Debt.alarm and share adaptations under the same license.
+- Code: [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html). Anyone who modifies the code and offers it as a service must publish their changes under the same license.
+
+See [LICENSE](LICENSE).
