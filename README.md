@@ -52,15 +52,15 @@ See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](
 
 ## Status
 
-The project is in its foundation phase. Contributions will open later; see [CONTRIBUTING.md](CONTRIBUTING.md).
+The foundation phase is complete. Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md), [GOVERNANCE.md](GOVERNANCE.md) and the [code of conduct](CODE_OF_CONDUCT.md).
 
 **No personal data about real debtors is ever published in this repository.**
 
 ## Origin / Opphav
 
-Debt.alarm (Gjeldsalarm) was started in 2026 by [Markemus-byte](https://github.com/Markemus-byte), who holds the copyright to the original idea, texts and code. The project is open so that others can build on it, but attribution to the origin must follow every copy and adaptation (see the licenses below).
+Debt.alarm (Gjeldsalarm) was started on 18 October 2026 by [Markemus-byte](https://github.com/Markemus-byte), who holds the copyright to the original idea, texts and code. The project is open so that others can build on it, but attribution to the origin must follow every copy and adaptation (see the licenses below).
 
-Debt.alarm (Gjeldsalarm) ble startet i 2026 av [Markemus-byte](https://github.com/Markemus-byte), som har opphavsretten til den opprinnelige ideen, tekstene og koden. Prosjektet er åpent slik at andre kan bygge videre, men kreditering av opphavet skal følge hver kopi og bearbeiding (se lisensene under).
+Debt.alarm (Gjeldsalarm) ble startet 18. oktober 2026 av [Markemus-byte](https://github.com/Markemus-byte), som har opphavsretten til den opprinnelige ideen, tekstene og koden. Prosjektet er åpent slik at andre kan bygge videre, men kreditering av opphavet skal følge hver kopi og bearbeiding (se lisensene under).
 
 ## License / Lisens
 

@@ -16,7 +16,7 @@
 
 ## Phase 2: Open for contributions
 
-- [ ] Open issues for stories, ideas, legal knowledge and sources
+- [x] Open issues for stories, ideas, legal knowledge and sources
 - [ ] Guide for sharing experiences safely and anonymously
 - [ ] Invite debt advisers, lawyers, health workers and relatives to review the proposal
 
