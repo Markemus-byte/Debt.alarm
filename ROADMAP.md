@@ -17,7 +17,7 @@
 ## Phase 2: Open for contributions
 
 - [x] Open issues for stories, ideas, legal knowledge and sources
-- [ ] Guide for sharing experiences safely and anonymously
+- [x] Guide for sharing experiences safely and anonymously ([docs/del-trygt.md](docs/del-trygt.md))
 - [ ] Invite debt advisers, lawyers, health workers and relatives to review the proposal
 
 ## Phase 3: Outreach and change

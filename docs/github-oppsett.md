@@ -56,7 +56,7 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 - **Bypass list:** Repository admin. The founder can push or merge directly when needed; everyone else must go through a pull request.
 - ✅ **Restrict deletions**
 - ✅ **Block force pushes**
-- ✅ **Require a pull request before merging**, with **Required approvals** set to `1`. You cannot approve your own pull requests, but the admin bypass lets you merge them anyway, so `1` blocks everyone except you.
+- ✅ **Require a pull request before merging**, with **Required approvals** set to `0` while the founder is the only person with write access. You cannot approve your own pull requests, and nobody else can merge, so `1` would only force a bypass on every merge. Raise it to `1` when a second maintainer joins.
 - ✅ **Allowed merge methods:** Squash only. Every pull request becomes one commit on `main`, authored by the pull request's author, with `Co-authored-by` lines for everyone else who committed to the branch.
 - ✅ **Require status checks to pass** with the check `prototype` (the job in `.github/workflows/tests.yml`).
 

@@ -4,8 +4,8 @@ about: Del en anonym erfaring med inkasso / Share an anonymous experience with d
 labels: story
 ---
 
-> **Ikke skriv navn, fødselsnummer, adresser, saksnumre eller helseopplysninger.**
-> **Do not include names, ID numbers, addresses, case numbers or health details.**
+> **Ikke skriv navn, fødselsnummer, adresser, saksnumre eller helseopplysninger.** Les [guiden for trygg deling](https://github.com/Markemus-byte/Debt.alarm/blob/main/docs/del-trygt.md) først.
+> **Do not include names, ID numbers, addresses, case numbers or health details.** Read the [guide to sharing safely](https://github.com/Markemus-byte/Debt.alarm/blob/main/docs/del-trygt.md) first.
 
 **Hva skjedde? / What happened?**
 
