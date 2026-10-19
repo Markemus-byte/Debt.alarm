@@ -6,6 +6,7 @@
 
 - ✅ Repository name is `Debt.alarm`.
 - ✅ Repository is **Public** (Settings → General → Danger Zone → Change repository visibility).
+- ✅ GitHub Actions is enabled. A newly created repository has it off until the button on the **Actions** tab is pressed, and workflows do not run on pushes made before that.
 - ✅ Release `v0.1.1 – Foundation / Grunnmur` is published and immutable: a dated public record of the project's state. (`v0.1.0` cannot be reused; it belonged to an earlier copy of the repository that was deleted.)
 - ✅ Copyright and origin are stated in `NOTICE`, the code license in `LICENSE` (AGPL-3.0-or-later) and the text license in `LICENSE-docs` (CC BY-SA 4.0). GitHub labels the repository AGPL-3.0 because `LICENSE` contains the license text verbatim.
 
@@ -26,10 +27,10 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 | Setting | State |
 | --- | --- |
 | Allow merge commits | ☐ On. Harmless if left on. |
-| Allow squash merging | ✅ On. ☐ Default commit message is not yet set to **Pull request title and description**. |
+| Allow squash merging | ✅ On, with default commit message **Pull request title and description**. |
 | Allow rebase merging | ☐ On. Could be turned off. |
 | Always suggest updating pull request branches | ☐ Off. Recommended On. |
-| Automatically delete head branches | ☐ Off. Recommended On. |
+| Automatically delete head branches | ✅ On. |
 | Allow auto-merge | ☐ Off. Not needed. |
 
 ## Commits, Archives and Issues
@@ -56,21 +57,21 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 - ✅ **Restrict deletions**
 - ✅ **Block force pushes**
 - ✅ **Require a pull request before merging**, with **Required approvals** set to `1`. You cannot approve your own pull requests, but the admin bypass lets you merge them anyway, so `1` blocks everyone except you.
-- ☐ **Require status checks to pass** with the check `prototype` (the job in `.github/workflows/tests.yml`). Add it once the workflow has run at least once on `main`.
+- ✅ **Require status checks to pass** with the check `prototype` (the job in `.github/workflows/tests.yml`).
 
 Together with the `CODEOWNERS` file (which requests `@Markemus-byte` as reviewer on every pull request), nobody can change the main branch without a pull request that you merge.
 
 ## Collaborators and access / Tilgang
 
 - ✅ **Settings → Collaborators:** nobody has write access. Anyone can still contribute by forking and opening a pull request.
-- ☐ **Settings → Actions → General → Approval for running fork pull request workflows from contributors:** currently **Require approval for first-time contributors**. Recommended **Require approval for all external contributors**, so no fork can run the test workflow on your account before you have looked at it.
+- ✅ **Settings → Actions → General → Approval for running fork pull request workflows from contributors:** **Require approval for all external contributors**, so no fork can run the test workflow on your account before you have looked at it.
 - ✅ **Settings → Actions → General → Workflow permissions:** **Read repository contents and packages permissions**.
 
 ## Security and moderation / Sikkerhet og moderering
 
 | Setting | State |
 | --- | --- |
-| Code security → Private vulnerability reporting | ☐ Off. Recommended **Enable**. |
+| Code security → Private vulnerability reporting | ✅ On. Security problems can be reported to you privately instead of in a public issue. |
 | Code security → Secret scanning and Push protection | ✅ On (GitHub's default for public repositories) |
 | Code security → Dependabot alerts | ☐ Off. Harmless either way; the prototype has no dependencies. |
 | Moderation → Interaction limits | ✅ Off. Use it if spam starts. |
