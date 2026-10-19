@@ -26,9 +26,9 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 
 | Setting | State |
 | --- | --- |
-| Allow merge commits | ☐ On. Harmless if left on. |
+| Allow merge commits | On, but irrelevant for `main`: the ruleset below only allows squash merges there. |
 | Allow squash merging | ✅ On, with default commit message **Pull request title and description**. |
-| Allow rebase merging | ☐ On. Could be turned off. |
+| Allow rebase merging | On, but irrelevant for `main` for the same reason. |
 | Always suggest updating pull request branches | ☐ Off. Recommended On. |
 | Automatically delete head branches | ✅ On. |
 | Allow auto-merge | ☐ Off. Not needed. |
@@ -57,6 +57,7 @@ If you ever turn the wiki on, tick **Restrict editing to collaborators only**.
 - ✅ **Restrict deletions**
 - ✅ **Block force pushes**
 - ✅ **Require a pull request before merging**, with **Required approvals** set to `1`. You cannot approve your own pull requests, but the admin bypass lets you merge them anyway, so `1` blocks everyone except you.
+- ✅ **Allowed merge methods:** Squash only. Every pull request becomes one commit on `main`, authored by the pull request's author, with `Co-authored-by` lines for everyone else who committed to the branch.
 - ✅ **Require status checks to pass** with the check `prototype` (the job in `.github/workflows/tests.yml`).
 
 Together with the `CODEOWNERS` file (which requests `@Markemus-byte` as reviewer on every pull request), nobody can change the main branch without a pull request that you merge.
