@@ -17,8 +17,9 @@ Takk for at du vil hjelpe. Grunnmuren er på plass, og prosjektet er nå åpent 
 - Anonymise stories: change details that could identify a person.
 - Do not post private letters or documents from collection firms without removing all personal data.
 - Content that breaks these rules will be removed.
+- Before sharing a story, read the guide [Sharing experiences safely](docs/del-trygt.md).
 
-**Aldri publiser navn, fødselsnummer, adresser, saksnumre eller helseopplysninger** om deg selv eller andre.
+**Aldri publiser navn, fødselsnummer, adresser, saksnumre eller helseopplysninger** om deg selv eller andre. Les [guiden for trygg deling](docs/del-trygt.md) før du deler en historie.
 
 ## How to contribute
 

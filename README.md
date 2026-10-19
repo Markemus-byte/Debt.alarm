@@ -54,6 +54,8 @@ See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](
 
 The foundation phase is complete. Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md), [GOVERNANCE.md](GOVERNANCE.md) and the [code of conduct](CODE_OF_CONDUCT.md).
 
+Want to share an experience? Read [how to share safely](docs/del-trygt.md) first. Vil du dele en erfaring? Les [hvordan du deler trygt](docs/del-trygt.md) først.
+
 **No personal data about real debtors is ever published in this repository.**
 
 ## Origin / Opphav
