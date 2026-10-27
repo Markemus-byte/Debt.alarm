@@ -56,6 +56,8 @@ The foundation phase is complete. Contributions are welcome; see [CONTRIBUTING.m
 
 Want to share an experience? Read [how to share safely](docs/del-trygt.md) first. Vil du dele en erfaring? Les [hvordan du deler trygt](docs/del-trygt.md) først.
 
+Do you work with debt advice, law, health care or social work? Help us [review the proposal](docs/gjennomgang.md#english). Jobber du med gjeldsrådgivning, juss, helse eller sosialt arbeid? Hjelp oss å [gå gjennom forslaget](docs/gjennomgang.md).
+
 **No personal data about real debtors is ever published in this repository.**
 
 ## Origin / Opphav

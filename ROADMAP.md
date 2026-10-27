@@ -18,7 +18,7 @@
 
 - [x] Open issues for stories, ideas, legal knowledge and sources
 - [x] Guide for sharing experiences safely and anonymously ([docs/del-trygt.md](docs/del-trygt.md))
-- [ ] Invite debt advisers, lawyers, health workers and relatives to review the proposal
+- [ ] Invite debt advisers, lawyers, health workers and relatives to review the proposal ([review guide](docs/gjennomgang.md))
 
 ## Phase 3: Outreach and change
 
