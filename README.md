@@ -12,6 +12,8 @@ Når en person slutter å svare, fortsetter inkassosystemet å legge på kostnad
 
 Folk blir stille av ekte grunner: alvorlig sykdom, psykiske kriser, utbrenthet, lange sykehusopphold eller død. Mange aktører ser varselsignalene (full postkasse, ubesvarte anrop, uteblitte avtaler), men ingen slår alarm. Imens vokser gebyrer og renter, og inkassoselskapene tjener på hvert steg.
 
+Mange har rett og slett gitt opp. Når regningene blir for mange, blir det for tungt å åpne posten. Noen havner i gjeld nettopp fordi de er syke, for eksempel fordi de handler for å holde ut en tung periode, slik andre trøstespiser selv om de vet at det skader dem. Og de fleste prøver å smile og vise det beste utad, så de rundt dem merker lite. Postbudet ser at postkassen er full og presser brevene lenger ned. Det eneste leddet som merker stillheten hver gang, er inkassoselskapet, og det tjener mer for hver gang det ikke får kontakt.
+
 Inkassoen stopper når et dødsfall er registrert. De verste tilfellene er dødsfall ingen oppdager: en person ligger død hjemme i månedsvis, og når dødsfallet blir funnet, har gebyrene spist opp arven.
 
 **Debt.alarm (Gjeldsalarm)** er et åpent prosjekt som skal kartlegge problemet og utforme et tidlig varslingssystem:
@@ -33,6 +35,8 @@ Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rett
 When a person stops answering, Norway's debt collection system keeps adding costs, and nobody is required to ask why.
 
 People go silent for real reasons: serious illness, mental health crises, burnout, long hospital stays, or death. Many parties see the warning signs (a full mailbox, unanswered calls, missed appointments), but no one sounds the alarm. Meanwhile fees and interest grow, and collection companies earn on every step.
+
+Many have simply given up. When the bills pile up, opening the mail becomes too heavy. Some end up in debt precisely because they are ill, for example because they shop to get through a dark period, the way others comfort-eat even though they know it harms them. And most people try to smile and show their best side, so those around them notice little. The postman sees the mailbox is full and pushes the letters further in. The only party that notices the silence every time is the collection agency, and it earns more each time it fails to make contact.
 
 Collection stops once a death is registered. The worst cases are deaths nobody discovers: a person lies dead at home for months, and by the time they are found, fees have eaten the estate.
 
