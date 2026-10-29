@@ -93,6 +93,8 @@ flowchart TD
 - [ ] Hva koster en velferdssjekk for kommunen, og hvem betaler?
 - [ ] Hvordan unngår vi at flagget blir et stempel som hindrer folk i å få lån senere?
 - [ ] Kan GDPRs regel om vitale interesser bære pauseflagget? Dette må jurister vurdere.
+- [ ] Bør flagget også gjelde namsmannen og Skatteetaten, slik at ingen får trekk i lønn eller trygd beregnet med standardsatser før noen har fått kontakt? Se hull 6 i [rettskartet](rettskart.md).
+- [ ] Bør den som er syk eller har vært stille, kunne få betalingsavtale for skatt over mer enn 12 måneder, også etter at varselet er sendt?
 
 ---
 
