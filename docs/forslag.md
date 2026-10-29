@@ -2,6 +2,8 @@
 
 *Versjon 1, oktober 2026. Bygger på [analysen](analyse.md) og [rettskartet](rettskart.md). English summary at the bottom.*
 
+*Forslaget er ute til gjennomgang. Se [spørsmålene vi trenger svar på](gjennomgang.md). The proposal is open for review: see [the questions we need answered](gjennomgang.md#english).*
+
 ## Kort oppsummert
 
 Når en skyldner har vært helt stille over tid, skal inkassoforetaket sette et **stilleflagg**. Flagget stopper nye gebyrer, sender et signal til NAV om å ta kontakt, og fører til en velferdssjekk hvis stillheten fortsetter. Gjelden slettes ikke, men den vokser ikke mens ingen vet om personen har det bra. Hvis det viser seg at personen var død, slettes alle kostnader som løp etter dødsdagen.
