@@ -63,6 +63,7 @@ Ingen av tilsynsrapportene vurderer hvordan foretakene behandler syke eller sår
 | Avtaler blir ikke møtt | Lege, NAV, kommunen | Nei, ikke overfor kreditorer |
 | Måneder på sykehus eller i behandling | Helsetjenesten | Nei. Taushetsplikt hindrer deling. |
 | Et dødsfall oppdages ikke på måneder | Ingen | Nei. Loven nevner ikke død. |
+| Varsel om utleggstrekk blir ikke besvart | Namsmannen, Skatteetaten | Nei. Trekket beregnes med standardsatser for boutgifter ([rettskartet](rettskart.md)). |
 
 Hver aktør ser bare sin egen bit. Den eneste som tjener på at bitene aldri settes sammen, er den som legger på gebyrene.
 

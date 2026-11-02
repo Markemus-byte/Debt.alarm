@@ -24,6 +24,7 @@ Du trenger ikke svare på alt. Én kommentar om én del du kjenner godt, er nok.
 - Når du møter folk som har vært stille lenge, hva var som regel grunnen, og hva ville nådd dem tidligere?
 - Vil et brev fra NAV med tilbud om hjemmebesøk virke, eller finnes det bedre måter å ta kontakt på?
 - Kan flagget brukes til å utsette betaling, og hvordan bør vi i så fall stoppe det?
+- Møter dere folk som har fått trekk i lønn eller trygd beregnet med standardsatser fordi de ikke svarte, og som da ikke klarer boliglånet?
 
 **Jurister**
 
@@ -32,6 +33,7 @@ Du trenger ikke svare på alt. Én kommentar om én del du kjenner godt, er nok.
 - Hvordan passer forslaget med den nye inkassoloven, særlig regelen om skyldnere som er alvorlig syke, og med god inkassoskikk?
 - Hvordan bør bortfall av kostnader etter dødsdagen og tilbakebetaling til boet utformes, sett opp mot arveloven etter endringen i 2023?
 - Er listen over lover som må endres, komplett?
+- Bør stilleflagget også gjelde namsmannen og Skatteetaten når de bestemmer trekk i inntekt (se hull 6 i [rettskartet](rettskart.md))?
 
 **Helse- og sosialarbeidere**
 
@@ -93,6 +95,7 @@ You do not need to answer everything. One comment on one part you know well is e
 - When you meet people who have been silent for a long time, what was usually the reason, and what would have reached them sooner?
 - Will a letter from NAV offering a home visit work, or are there better ways to make contact?
 - Could the flag be used to delay payment, and if so, how should we stop that?
+- Do you meet people whose deduction from pay or benefits was set with standard rates because they did not answer, and who then cannot pay their mortgage?
 
 **Lawyers**
 
@@ -101,6 +104,7 @@ You do not need to answer everything. One comment on one part you know well is e
 - How does the proposal fit the new Debt Collection Act, especially its rule on seriously ill debtors, and good debt collection practice?
 - How should the cancellation of costs after the date of death, and refunds to the estate, be designed given the Inheritance Act after the 2023 change?
 - Is the list of laws that must change complete?
+- Should the Silence Flag also apply to the bailiff and the Tax Administration when they decide deductions from income (see gap 6 in the [legal map](rettskart.md))?
 
 **Health and social workers**
 
