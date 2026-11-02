@@ -63,7 +63,7 @@ Hvert hull peker på en del av [forslaget](forslag.md):
 
 - [ ] Har Posten noen rutine når post ikke hentes over lang tid?
 - [ ] Hva sier arveloven i dag, etter endringen fra 2023, om hvor mye arvingene hefter for?
-- [ ] Når trer den nye inkassoloven i kraft, og hva kommer i den nye inkassoforskriften?
+- [ ] Hva kommer i den nye inkassoforskriften? Ikrafttredelse for loven er signalisert 1. januar 2027 ([Finans Norge](https://www.finansnorge.no/contentassets/416d893bcb3b440f80f937fd8e8d8d45/hva-betyr-ny-inkassolov.pdf)).
 - [ ] Har politiet eller kommunen rutiner for velferdssjekk når noen ikke er sett på lenge? Dagbladets serie *De døde alene* kan være et utgangspunkt.
 - [ ] Kan GDPRs regel om vitale interesser bære et felles varselflagg?
 - [ ] Hvor høye er de stipulerte boutgiftene namsmannen og Skatteetaten bruker, og hvor ofte er det faktiske boliglånet høyere?

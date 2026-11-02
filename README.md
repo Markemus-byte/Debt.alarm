@@ -10,9 +10,11 @@
 
 Når en person slutter å svare, fortsetter inkassosystemet å legge på kostnader, og ingen har plikt til å spørre hvorfor.
 
-Folk blir stille av ekte grunner: alvorlig sykdom, psykiske kriser, utbrenthet, lange sykehusopphold eller død. Mange aktører ser varselsignalene (full postkasse, ubesvarte anrop, uteblitte avtaler), men ingen slår alarm. Imens vokser gebyrer og renter, og inkassoselskapene tjener på hvert steg.
+Folk blir stille av ekte grunner: alvorlig sykdom, psykiske kriser, utbrenthet, lange sykehusopphold eller død. Mange aktører ser varselsignalene (full postkasse, ubesvarte anrop, uteblitte avtaler), men ingen slår alarm. Imens vokser gebyrer og renter. Inkassoselskapet tar betalt for hvert steg, og den som eier kravet får renten.
 
-Mange har rett og slett gitt opp. Når regningene blir for mange, blir det for tungt å åpne posten. Noen havner i gjeld nettopp fordi de er syke, for eksempel fordi de handler for å holde ut en tung periode, slik andre trøstespiser selv om de vet at det skader dem. Og de fleste prøver å smile og vise det beste utad, så de rundt dem merker lite. Postbudet ser at postkassen er full og presser brevene lenger ned. Det eneste leddet som merker stillheten hver gang, er inkassoselskapet, og det tjener mer for hver gang det ikke får kontakt. Hos namsmannen og Skatteetaten er det lignende: den som ikke svarer på varselet innen fristen, får trekket i lønn eller trygd beregnet med standardsatser for boutgifter, ikke det faktiske boliglånet ([rettskartet](docs/rettskart.md)).
+Mange har rett og slett gitt opp. Når regningene blir for mange, blir det for tungt å åpne posten. Noen havner i gjeld nettopp fordi de er syke, for eksempel fordi de handler for å holde ut en tung periode, slik andre trøstespiser selv om de vet at det skader dem. Og de fleste prøver å smile og vise det beste utad, så de rundt dem merker lite. Postbudet ser at postkassen er full og presser brevene lenger ned. Det eneste leddet som merker stillheten hver gang, er inkassoselskapet, og det får betalt mer for hver gang det ikke får kontakt. Hos namsmannen og Skatteetaten er det lignende: den som ikke svarer på varselet innen fristen, får trekket i lønn eller trygd beregnet med standardsatser for boutgifter, ikke det faktiske boliglånet ([rettskartet](docs/rettskart.md)).
+
+Det handler om store beløp. I 2024 betalte skyldnere i Norge ca. 6,9 milliarder kroner i renter og inkassokostnader i tillegg til selve gjelden. De norske inkassoselskapene sitter selv igjen med lite av dette; fortjenesten havner hos dem som eier gjelden og i konsernene i utlandet. Et gebyrstopp etter to måneders stillhet ville koste bransjen høyst 0,1 til 0,4 milliarder kroner i året ([fortjeneste og frist](docs/fortjeneste-og-frist.md)).
 
 Inkassoen stopper når et dødsfall er registrert. De verste tilfellene er dødsfall ingen oppdager: en person ligger død hjemme i månedsvis, og når dødsfallet blir funnet, har gebyrene spist opp arven.
 
@@ -26,7 +28,7 @@ Inkassoen stopper når et dødsfall er registrert. De verste tilfellene er døds
 
 Målet er ikke å slette gjeld. Det er å sørge for at stillhet blir behandlet som et varsel, ikke som en forretningsmulighet.
 
-Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rettskart.md), [forslaget](docs/forslag.md) og [det tekniske konseptet](docs/teknisk-konsept.md).
+Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rettskart.md), [forslaget](docs/forslag.md), [regnestykket for fristen](docs/fortjeneste-og-frist.md) og [det tekniske konseptet](docs/teknisk-konsept.md).
 
 ---
 
@@ -34,9 +36,11 @@ Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rett
 
 When a person stops answering, Norway's debt collection system keeps adding costs, and nobody is required to ask why.
 
-People go silent for real reasons: serious illness, mental health crises, burnout, long hospital stays, or death. Many parties see the warning signs (a full mailbox, unanswered calls, missed appointments), but no one sounds the alarm. Meanwhile fees and interest grow, and collection companies earn on every step.
+People go silent for real reasons: serious illness, mental health crises, burnout, long hospital stays, or death. Many parties see the warning signs (a full mailbox, unanswered calls, missed appointments), but no one sounds the alarm. Meanwhile fees and interest grow. The collection agency charges for every step, and whoever owns the claim collects the interest.
 
-Many have simply given up. When the bills pile up, opening the mail becomes too heavy. Some end up in debt precisely because they are ill, for example because they shop to get through a dark period, the way others comfort-eat even though they know it harms them. And most people try to smile and show their best side, so those around them notice little. The postman sees the mailbox is full and pushes the letters further in. The only party that notices the silence every time is the collection agency, and it earns more each time it fails to make contact. The bailiff and the Tax Administration work in a similar way: if you do not answer their notice in time, the deduction from your pay or benefits is based on standard housing costs, not your real mortgage ([legal map](docs/rettskart.md)).
+Many have simply given up. When the bills pile up, opening the mail becomes too heavy. Some end up in debt precisely because they are ill, for example because they shop to get through a dark period, the way others comfort-eat even though they know it harms them. And most people try to smile and show their best side, so those around them notice little. The postman sees the mailbox is full and pushes the letters further in. The only party that notices the silence every time is the collection agency, and it gets paid more each time it fails to make contact. The bailiff and the Tax Administration work in a similar way: if you do not answer their notice in time, the deduction from your pay or benefits is based on standard housing costs, not your real mortgage ([legal map](docs/rettskart.md)).
+
+The sums are large. In 2024, debtors in Norway paid about NOK 6.9 billion in interest and collection costs on top of the debts themselves. Norwegian collection agencies keep little of it as profit; the profit ends up with whoever owns the debt and in the groups abroad. A fee freeze after two months of silence would cost the industry at most NOK 0.1 to 0.4 billion a year ([profits and the deadline](docs/fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost)).
 
 Collection stops once a death is registered. The worst cases are deaths nobody discovers: a person lies dead at home for months, and by the time they are found, fees have eaten the estate.
 
@@ -50,7 +54,7 @@ Collection stops once a death is registered. The worst cases are deaths nobody d
 
 The goal is not to cancel debts. It is to make sure silence is treated as a warning, not as a business opportunity.
 
-See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](docs/rettskart.md), the [proposal](docs/forslag.md) and the [technical concept](docs/teknisk-konsept.md).
+See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](docs/rettskart.md), the [proposal](docs/forslag.md), the [cost of a freeze](docs/fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost) and the [technical concept](docs/teknisk-konsept.md).
 
 ---
 
