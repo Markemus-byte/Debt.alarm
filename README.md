@@ -28,7 +28,7 @@ Inkassoen stopper når et dødsfall er registrert. De verste tilfellene er døds
 
 Målet er ikke å slette gjeld. Det er å sørge for at stillhet blir behandlet som et varsel, ikke som en forretningsmulighet.
 
-Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rettskart.md), [forslaget](docs/forslag.md), [regnestykket for fristen](docs/fortjeneste-og-frist.md) og [det tekniske konseptet](docs/teknisk-konsept.md).
+Se [veikartet](ROADMAP.md), [analysen](docs/analyse.md), [rettskartet](docs/rettskart.md), [forslaget](docs/forslag.md), [regnestykket for fristen](docs/fortjeneste-og-frist.md) og [det tekniske konseptet](docs/teknisk-konsept.md). En egen studie ser på [hvorfor opptjent pensjon ikke går i arv](docs/pensjon-og-arv.md).
 
 ---
 
@@ -54,7 +54,7 @@ Collection stops once a death is registered. The worst cases are deaths nobody d
 
 The goal is not to cancel debts. It is to make sure silence is treated as a warning, not as a business opportunity.
 
-See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](docs/rettskart.md), the [proposal](docs/forslag.md), the [cost of a freeze](docs/fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost) and the [technical concept](docs/teknisk-konsept.md).
+See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](docs/rettskart.md), the [proposal](docs/forslag.md), the [cost of a freeze](docs/fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost) and the [technical concept](docs/teknisk-konsept.md). A separate study looks at [why earned pension is not inherited](docs/pensjon-og-arv.md#english-version-who-gets-the-pension-when-someone-dies).
 
 ---
 
