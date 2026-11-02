@@ -1,6 +1,6 @@
 # Forslag: Stilleflagget
 
-*Versjon 1, oktober 2026. Bygger på [analysen](analyse.md) og [rettskartet](rettskart.md). English summary at the bottom.*
+*Versjon 1, oktober 2026. Bygger på [analysen](analyse.md), [rettskartet](rettskart.md) og [regnestykket for fristen](fortjeneste-og-frist.md). English summary at the bottom.*
 
 *Forslaget er ute til gjennomgang. Se [spørsmålene vi trenger svar på](gjennomgang.md). The proposal is open for review: see [the questions we need answered](gjennomgang.md#english).*
 
@@ -34,6 +34,7 @@ flowchart TD
 
 - Flagget settes når skyldneren ikke har svart på noen kanal (brev, digital post, SMS eller telefon) og ikke har betalt noe, i **60 dager etter inkassovarselet**.
 - Inkassoforetaket må sette flagget før saken kan gå videre til tungt salær eller rettslig inndriving.
+- Hvorfor 60 dager: tungt salær kan tidligst kreves rundt dag 57. Med regelen over får ingen stille person doblet salær før noen har sett etter. For pengene betyr fristen lite; et flagg på dag 30 eller dag 90 utgjør ca. 100 kroner på et krav på 5 000 kroner ([regnestykket](fortjeneste-og-frist.md)).
 - Flagget gjelder personen, ikke saken. Har én kreditor flagget en person, ser andre kreditorer det også (se del 4).
 
 *Svarer på hull 1: stillhet utløser ingenting.*
@@ -88,7 +89,8 @@ flowchart TD
 
 ## Åpne spørsmål
 
-- [ ] Er 60 og 90 dager riktige frister? Hva sier gjeldsrådgivere og helsearbeidere?
+- [ ] Er 60 og 90 dager riktige frister? Hva sier gjeldsrådgivere og helsearbeidere? [Regnestykket](fortjeneste-og-frist.md) viser at fristen må velges ut fra menneskene, ikke pengene.
+- [ ] Bør frysen være «fryst, ikke slettet»? Var personen frisk og kunne svart, kan frosne gebyrer og renter kreves etterpå; var personen syk, innlagt eller død, eller satt lege, NAV eller verge et pauseflagg, faller de bort ([del 6 i regnestykket](fortjeneste-og-frist.md#6-hva-betyr-dette-for-fristen)).
 - [ ] Hvem bør drive flaggtjenesten: Finanstilsynet, NAV, Digdir eller Gjeldsregisteret?
 - [ ] Hva koster en velferdssjekk for kommunen, og hvem betaler?
 - [ ] Hvordan unngår vi at flagget blir et stempel som hindrer folk i å få lån senere?
@@ -107,5 +109,7 @@ When a debtor has been completely silent for a while, the collector sets a **sil
 3. **Referral:** NAV receives only the name and address and offers financial advice, including a home visit.
 4. **One shared flag:** a minimal public flag service holding only a yes/no flag. Health services, NAV or a guardian can set a pause flag without saying why.
 5. **Welfare check:** after 90 more days of silence, the municipality checks on the person. If they had died, all costs added after the date of death are cancelled or refunded.
+
+Why 60 days: a heavy fee can be charged from about day 57, so the rule that the flag must come first means no silent person gets a doubled fee before someone has checked. For the money the deadline matters little: flagging on day 30 or day 90 differs by about NOK 100 on a NOK 5,000 claim, and a freeze would cost the industry at most NOK 0.1–0.4 bn a year ([profits and the deadline](fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost)). An open question is whether the freeze should be "frozen, not deleted": fees could be claimed afterwards from someone who was well and chose not to answer.
 
 Safeguards: the principal debt remains, anyone who makes contact gets a normal payment plan, flags expire, and Finanstilsynet supervises. The proposal requires changes to the Debt Collection Act and regulations, the Social Services Act, and privacy and health legislation.

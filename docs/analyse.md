@@ -28,9 +28,13 @@ Etter rundt fem måneder har tusenlappen blitt nesten 5 000 kroner. Nesten 4 000
 
 **Satsene i dag er høyere.** Inkassosatsen er 750 kroner i 2026, opp fra 700 kroner. Purring og inkassovarsel koster nå 38 kroner, og en betalingsoppfordring fra kreditor 113 kroner ([Finanstilsynet, januar 2026](https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/inkassosatsen-i-2026-blir-750-kroner/)). Forbrukerrådet var imot økningen og pekte på belastningen for sårbare forbrukere ([Forbrukerrådet, 2025](https://storage02.forbrukerradet.no/media/2025/11/20251120-fr-horingssvar-om-justering-av-inkassosatser-endelig.pdf)).
 
+## Hvem tjener på det
+
+I 2024 betalte skyldnerne 3,28 milliarder kroner i forsinkelsesrenter, 2,93 milliarder i inkassokostnader og 0,72 milliarder i rettslige kostnader, til sammen ca. 6,9 milliarder kroner i tillegg til selve gjelden. De norske inkassoselskapene har likevel tynne marginer. Fortjenesten havner hos dem som eier gjelden, og i konsernene i utlandet. Se [fortjeneste og frist](fortjeneste-og-frist.md) for tall og kilder, og for hva et gebyrstopp ville koste.
+
 ## Hva reglene sier
 
-**Ny inkassolov.** Stortinget vedtok en ny inkassolov 21. april 2026 ([Lovvedtak 36 (2025–2026)](https://stortinget.no/globalassets/pdf/lovvedtak/2025-2026/vedtak-202526-036.pdf)). Den trer i kraft når Kongen bestemmer; vi har ikke funnet en fastsatt dato ennå. Det viktigste for oss:
+**Ny inkassolov.** Stortinget vedtok en ny inkassolov 21. april 2026 ([Lovvedtak 36 (2025–2026)](https://stortinget.no/globalassets/pdf/lovvedtak/2025-2026/vedtak-202526-036.pdf)). Loven ble sanksjonert 22. mai 2026. Ikrafttredelse er ikke fastsatt, men myndighetene har signalisert 1. januar 2027, og satsene skal fastsettes i en ny forskrift ([Finans Norge](https://www.finansnorge.no/contentassets/416d893bcb3b440f80f937fd8e8d8d45/hva-betyr-ny-inkassolov.pdf)). Det viktigste for oss:
 
 - **§ 14, god inkassoskikk:** Inndrivingen skal tilpasses skyldnere i en særlig vanskelig situasjon, for eksempel alvorlig sykdom, ulykke, institusjonsopphold eller betalingsvansker. Urimelig påtrykk er forbudt.
 - **§ 16 og § 20:** Inkassovarselet skal fortelle hvordan skyldneren kan ta kontakt om betalingsvansker, og foretaket skal veilede eller henvise til hjelp *når skyldneren tar kontakt*.
@@ -69,8 +73,8 @@ Hver aktør ser bare sin egen bit. Den eneste som tjener på at bitene aldri set
 
 ## Åpne spørsmål
 
-- [ ] Når trer den nye inkassoloven i kraft, og hva sier den nye inkassoforskriften?
-- [ ] Hvor stor del av inntektene til Intrum og Axactor i Norge kommer fra salærer og renter, og hvor mye fra selve kravene?
+- [ ] Hva sier den nye inkassoforskriften, og når blir den fastsatt? (Ikrafttredelse er signalisert 1. januar 2027.)
+- [ ] Hvor stor del av inntektene til Intrum og Axactor i Norge kommer fra salærer og renter, og hvor mye fra selve kravene? Delvis besvart i [fortjeneste og frist](fortjeneste-og-frist.md); det som mangler, er hvor mye som kommer fra skyldnere som er helt stille.
 - [ ] Finnes det tall eller dokumenterte saker om dødsbo der gebyrer har spist opp arven?
 - [ ] Hvordan håndterer Sverige, Danmark, Finland og Storbritannia skyldnere som ikke svarer?
 - [ ] Kan et varsel deles uten å bryte taushetsplikt og personvern? (se [forslaget](forslag.md))
@@ -85,14 +89,16 @@ Hver aktør ser bare sin egen bit. Den eneste som tjener på at bitene aldri set
 - [Stortinget: Innst. 192 L (2025–2026)](https://stortinget.no/no/saker-og-publikasjoner/publikasjoner/innstillinger/stortinget/2025-2026/inns-202526-192l/?m=3)
 - [Finanstilsynet: tematilsyn telefonisk inkassovirksomhet (2022)](https://www.finanstilsynet.no/contentassets/e714ae8dfdc84ca7b315bf5e838ceb62/tematilsynsrapport-telefonisk-inkassovirksomhet.pdf)
 - [Finanstilsynet: tilsynsrapport Axactor Norway AS](https://www.finanstilsynet.no/contentassets/33d3589a432f40c682c7b92909958345/tilsynsrapport---axactor-norway-as.pdf)
+- [Finans Norge: Hva betyr ny inkassolov?](https://www.finansnorge.no/contentassets/416d893bcb3b440f80f937fd8e8d8d45/hva-betyr-ny-inkassolov.pdf)
 - [Finanstilsynet: tilsynsrapport Intrum AS](https://finanstilsynet.no/494e10/contentassets/6f3989dd4fec4f36a67c3254ec3c5a59/tilsynsrapport--intrum-as.pdf)
 
 ---
 
 ## English summary
 
-- **The key gap:** Norway's new Debt Collection Act (adopted 21 April 2026, entry into force not yet set as far as we found) requires collectors to adapt to debtors in a particularly difficult situation, such as serious illness or institutional stays. But every protection assumes the debtor makes contact or the collector already knows. When a person goes completely silent, nothing is triggered, and the law does not mention death at all.
+- **The key gap:** Norway's new Debt Collection Act (adopted 21 April 2026, sanctioned 22 May 2026; entry into force not yet set, but 1 January 2027 has been signalled) requires collectors to adapt to debtors in a particularly difficult situation, such as serious illness or institutional stays. But every protection assumes the debtor makes contact or the collector already knows. When a person goes completely silent, nothing is triggered, and the law does not mention death at all.
 - **Scale:** about 11.7 million new cases in 2025 and 133.1 billion kroner out for collection.
+- **Who earns:** in 2024 debtors paid about 6.9 billion kroner in interest and collection costs on top of their debts. Norwegian collection agencies have thin margins; the profit ends up with debt owners and the groups abroad ([profits and the deadline](fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost)).
 - **Growth:** in a 2016 example, an unpaid 1,000 kroner bill grew to 4,956 kroner in about five months. The base rate is higher today (750 kroner in 2026).
 - **Supervision:** Finanstilsynet found Axactor charging a 25 % surcharge it was not entitled to (2025) and Intrum booking heavy fees too early (2023). Neither report looks at how sick or vulnerable debtors are treated.
 - **Who sees the signs:** the collector, Posten, doctors, NAV, the municipality and health services each see part of the picture, and none is obliged to act.

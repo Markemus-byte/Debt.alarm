@@ -59,6 +59,7 @@ Kritikk fra dem som skal følge reglene, er like nyttig som støtte.
 
 - Hva vil det koste å sette, sjekke og fjerne flagg?
 - Hvordan kan et foretak dokumentere at det har prøvd å få kontakt i 60 dager?
+- Hvor stor del av innbetalingene kommer fra skyldnere som har vært helt stille i 60 dager? Det er tallet [anslaget for hva en frys koster](fortjeneste-og-frist.md) mangler.
 - Hvor kan forslaget misbrukes, eller få følger vi ikke har tenkt på?
 
 ### Slik svarer du
@@ -130,6 +131,7 @@ Criticism from those who would have to follow the rules is as useful as support.
 
 - What would it cost to set, check and remove flags?
 - How could an agency document that it tried to make contact for 60 days?
+- What share of payments comes from debtors who have been completely silent for 60 days? It is the number our [estimate of what a freeze costs](fortjeneste-og-frist.md#english-version-what-do-collectors-earn-and-what-does-a-freeze-cost) is missing.
 - Where could the proposal be misused, or have effects we have not thought of?
 
 ### How to respond
