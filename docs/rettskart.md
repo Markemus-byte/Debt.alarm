@@ -28,6 +28,7 @@ Når en kreditor ber om utlegg, sender namsmannen et varsel med fjorten dagers f
 Svarer ikke skyldneren, tar namsmannen bare hensyn til gjennomsnittlig inntekt innmeldt til Skatteetaten, skattetrekk, andre trekk, stipulerte boutgifter og livsoppholdssatsene (samme kilde). Skatteetaten gjør det samme: «Hvis du ikke har sendt inn opplysninger til oss før trekket starter, bruker vi standardsatser for utgifter som blant annet husleie» ([Skatteetaten](https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/tvangsinnkreving/trekk-i-inntekt/beregning/)). Det faktiske boliglånet teller altså bare når skyldneren selv har dokumentert det.
 
 - **Flere kan trekke.** Skatteetaten, namsmannen og kommunene kan alle bestemme trekk i inntekt. Etter de nye innkrevingsreglene har skyldneren tre ukers frist til å uttale seg ([Skatteetaten](https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/skyldner/)).
+- **Trekket kan vare lenge.** Etter de gamle reglene kunne et utleggstrekk som hovedregel løpe i inntil to år, og for skattekrav i inntil fem år ([Skatteetaten, retningslinje for utleggstrekk](https://www.skatteetaten.no/rettskilder/type/retningslinjer/retningslinje-for-utleggstrekk/)). Den nye innkrevingsloven trådte i kraft 1. januar 2026, og de nye reglene tas gradvis i bruk gjennom 2026 (samme kilde). Et nytt, samordnet utleggstrekk «må ikke lenger avsluttes etter to år, men løper til alle kravene i trekket er dekket» ([Skatteetaten](https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/skyldner/)). Vi vet ikke om det samme gjelder trekk namsmannen tar for private krav.
 - **Trekket kan tas i trygd.** Trekket kan tas i pengestøtte fra NAV, og NAV har ikke lov til å endre det ([NAV](https://www.nav.no/utleggstrekk)).
 - **Korte avtaler for skatt.** En vanlig betalingsavtale for skatt krever at kravene er under 100 000 kroner og betales innen 12 måneder. Den kan ikke inngås etter varsel om utleggsforretning eller når trekk er bestemt, og innkrevingen stopper ikke mens søknaden behandles ([Skatteetaten](https://www.skatteetaten.no/en/payment-difficulties/payment-agreements-for-tax-and-duty-claims/)).
 - **Sivilombudet følger med.** Fra september 2026 undersøker Sivilombudet om Skatteetaten tar hensyn til barn når foreldre får trekk ([Sivilombudet, 2026](https://www.sivilombudet.no/pressemeldinger/undersoker-om-skatteetaten-tar-hensyn-til-barn-nar-de-trekker-foreldrene-i-lonn/)). I en eldre sak mente ombudet at det var klart urimelig ikke å ettergi restskatt for en uføretrygdet med alvorlig psykisk sykdom, og pekte på «redusert evne til å ta initiativ» ([Sivilombudet, sak 2007/2055](https://www.sivilombudet.no/uttalelser/ettergivelse-av-restskatt-psykisk-sykdom/)).
@@ -55,19 +56,19 @@ Hvert hull peker på en del av [forslaget](forslag.md):
 | Hjelp må oppsøkes | Henvisning til NAV og kommunen fra inkassoforetaket |
 | Ingen ser helheten | Ett felles flagg flere aktører kan sette og lese |
 | Døden tar ingen pause | Velferdssjekk ved lang stillhet, og sletting av gebyrer mellom dødsdag og oppdagelse |
-| Stillhet gir standardtrekk | Ikke dekket i versjon 1. Se åpne spørsmål i forslaget. |
+| Stillhet gir standardtrekk | Delvis: betalingsavtale over inntil 24 måneder, også etter varsel om utlegg eller trekk (del 6). Om flagget også skal gjelde trekk, er et åpent spørsmål i forslaget. |
 
 **Personvern.** Et flagg om at noen kan være i fare, kan trolig behandles for å beskytte personens "vitale interesser" etter personvernforordningen (GDPR artikkel 6 og 9). Dette må vurderes av jurister før forslaget går videre.
 
 ## Åpne spørsmål
 
 - [ ] Har Posten noen rutine når post ikke hentes over lang tid?
-- [ ] Hva sier arveloven i dag, etter endringen fra 2023, om hvor mye arvingene hefter for?
+- [ ] Hva sier arveloven i dag, etter endringen fra 2023, om hvor mye arvingene hefter for? Se [sak #9](https://github.com/Markemus-byte/Debt.alarm/issues/9).
 - [ ] Hva kommer i den nye inkassoforskriften? Ikrafttredelse for loven er signalisert 1. januar 2027 ([Finans Norge](https://www.finansnorge.no/contentassets/416d893bcb3b440f80f937fd8e8d8d45/hva-betyr-ny-inkassolov.pdf)).
 - [ ] Har politiet eller kommunen rutiner for velferdssjekk når noen ikke er sett på lenge? Dagbladets serie *De døde alene* kan være et utgangspunkt.
-- [ ] Kan GDPRs regel om vitale interesser bære et felles varselflagg?
+- [ ] Kan GDPRs regel om vitale interesser bære et felles varselflagg? Se [sak #8](https://github.com/Markemus-byte/Debt.alarm/issues/8).
 - [ ] Hvor høye er de stipulerte boutgiftene namsmannen og Skatteetaten bruker, og hvor ofte er det faktiske boliglånet høyere?
-- [ ] Henter namsmannen eller Skatteetaten opplysninger om boliglån selv, for eksempel fra skattemeldingen? Vi har ikke funnet noen offisiell kilde som sier det.
+- [ ] Henter namsmannen eller Skatteetaten opplysninger om boliglån selv, for eksempel fra skattemeldingen? Vi har ikke funnet noen offisiell kilde som sier det. Se [sak #10](https://github.com/Markemus-byte/Debt.alarm/issues/10).
 - [ ] Hvor mange boliger tvangsselges i Norge hvert år etter utleggstrekk?
 
 ## Kilder
@@ -96,8 +97,8 @@ Every party that sees a person go silent has rules to follow, but none of those 
 - **NAV and municipalities** must offer financial advice and reach out when they see a need, but only to people already in contact with them.
 - **Health services** know the most but are bound by confidentiality.
 - **Posten and the original creditor** have no known duty to act on silence.
-- **The bailiff and the Tax Administration** can deduct from pay or benefits. If the debtor does not answer the notice within two to three weeks, the deduction is based on standard housing costs, not the real mortgage.
+- **The bailiff and the Tax Administration** can deduct from pay or benefits. If the debtor does not answer the notice within two to three weeks, the deduction is based on standard housing costs, not the real mortgage. Under the old rules a deduction could run for up to two years as a rule, and five years for tax. Skatteetaten says that under the new collection act (in force 1 January 2026) a new, coordinated deduction no longer has to end after two years but runs until the claims are paid; we do not know whether this also applies to the bailiff's deductions for private claims.
 - **Only a guardian** has a clear duty, and only for people who already have one.
 - **At death,** collection stops once the death is registered. Fees that grew before the death was discovered are paid from the estate before the heirs.
 
-The six gaps (silence triggers nothing, those who know cannot speak, help must be sought, nobody sees the whole picture, death does not pause fees, silence leads to a standard deduction) are listed above. The first five map to a part of the [proposal](forslag.md); the sixth is an open question there. A privacy-safe yes/no flag might rest on GDPR's "vital interests" basis, which lawyers need to assess.
+The six gaps (silence triggers nothing, those who know cannot speak, help must be sought, nobody sees the whole picture, death does not pause fees, silence leads to a standard deduction) are listed above. The first five map to a part of the [proposal](forslag.md); the sixth is partly answered by part 6 (payment agreements over up to 24 months), and whether the flag should also cover deductions is an open question there. A privacy-safe yes/no flag might rest on GDPR's "vital interests" basis, which lawyers need to assess. Three open legal questions have their own help-wanted issues: privacy ([#8](https://github.com/Markemus-byte/Debt.alarm/issues/8)), heirs' liability ([#9](https://github.com/Markemus-byte/Debt.alarm/issues/9)) and whether the bailiff can fetch the mortgage itself ([#10](https://github.com/Markemus-byte/Debt.alarm/issues/10)).
