@@ -101,7 +101,7 @@ Mye av dette kan Skatteetaten i dag gjøre som unntak. Forslaget gjør det til e
 
 - **Mer rente for skyldneren.** Over 24 måneder betaler man nesten dobbelt så mye forsinkelsesrente som over 12, fordi gjelden står ute lenger. Om renten bør settes ned mens avtalen følges, er et åpent spørsmål.
 - **Staten får pengene senere,** og risikoen for at noe aldri blir betalt, øker noe. Men Skatteetaten godtar allerede 24 måneder for andre krav, og et tvangstrekk kan løpe like lenge eller lenger.
-- **Betalingsmoral.** Noen kan bruke ordningen til å skyve på regninger de kunne ha betalt. Kravet om dokumentasjon og at avtalen faller bort når den brytes, skal hindre det.
+- **Betalingsmoral.** Noen kan bruke ordningen til å skyve på regninger de kunne ha betalt. Kravet om dokumentasjon, og at avtalen faller bort når den brytes, skal hindre det.
 - **Ikke for stor gjeld.** En lengre avtale hjelper ikke den som aldri kan betale alt. Da er gjeldsordning bedre enn å strekke ut avdragene.
 
 *Svarer delvis på hull 6: stillhet gir standardtrekk. Del 6 hjelper den som tar kontakt. Den som forblir stille, får fortsatt standardtrekk, og om flagget også skal gjelde trekk, er et åpent spørsmål.*
