@@ -25,6 +25,17 @@ cd prototype
 python3 fryseregnestykke.py
 ```
 
+## Pensjon ved død / Pension at death
+
+`pensjonsregnestykke.py` regner ut tallene i [pensjon og arv](../docs/pensjon-og-arv.md): hvor mye av folketrygdbeholdningen som i snitt aldri blir utbetalt fordi personen dør først, og hva ulike garantier til familien ville koste. Den bruker SSBs dødelighetstabell for 2025, og testene sjekker først at tabellen gjenskaper SSBs egne levealderstall. Testene låser de utregnede tallene i dokumentet.
+
+`pensjonsregnestykke.py` computes the figures in the pension and inheritance study: how much of the folketrygd balance is on average never paid out because the person dies first, and what different guarantees for the family would cost. It uses Statistics Norway's 2025 life table, and the tests first check that the table reproduces SSB's own life expectancy figures. The tests pin the computed figures in the document.
+
+```
+cd prototype
+python3 pensjonsregnestykke.py
+```
+
 ## Kjør testene / Run the tests
 
 Krever bare Python 3.10 eller nyere. Needs only Python 3.10 or newer.
