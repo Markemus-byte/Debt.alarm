@@ -86,9 +86,17 @@ Sakene under er publisert av andre. Referatene er skrevet med våre egne ord. Te
 
 **Hva saken ikke viser:** Thomas ble ikke stille overfor kreditorene. Han svarte og ba om utsettelser. Saken sier ingenting om inkassogebyrer, namsmannen eller trekk. Den viser veien inn i stillheten, ikke det [stilleflagget](forslag.md) skal stoppe.
 
+#### Kronikk i Forbundet Styrke: «Når gjeld blir en livskrise»
+
+[Les kronikken hos Forbundet Styrke](https://styrke.no/nyhet/nar-gjeld-blir-en-livskrise/) (Torleif Sand, leder i Årdal Kjemiske Fagforening og LO i Hydro, 8. desember 2025, lest 6. november 2026). Dette er et meningsinnlegg, ikke en historie om en bestemt person.
+
+**Kort fortalt:** Forfatteren mener selvmordsforebygging må ta sammenhengen mellom gjeld, psykisk helse og svikt i systemet på alvor. Han beskriver et tenkt forløp der en person slutter å åpne posten, blir sykmeldt og mister tilliten til systemet og seg selv. Ifølge ham blir minstebeløpet en person skal sitte igjen med etter trekk ofte ikke respektert, fordi Skatteetaten, namsmannen og NAV ikke samordner trekkene godt nok. Han viser til at den nye innkrevingsloven fra januar 2026 har en overgangsperiode til 2029. LO krever blant annet slutt på dobbelttrekk, at minstesatsene respekteres, at man kan snakke med et menneske og ikke bare digitale løsninger, og brev på klart språk.
+
+**Hva innlegget viser:** at det samme mønsteret blir sett fra fagbevegelsen. Stillheten, trekkene som ikke tar hensyn til hva folk faktisk har å leve for, og at ingen fanger det opp. Tallene i innlegget er forfatterens, og vi har ikke kontrollert dem mot kildene.
+
 ### Hvis du står midt i det nå
 
-Sakene over handler om selvmord. Trenger du noen å snakke med:
+Flere av sakene over handler om selvmord. Trenger du noen å snakke med:
 
 - **Mental Helses hjelpetelefon:** 116 123, døgnåpen.
 - **Kirkens SOS:** 22 40 00 40, døgnåpen.
@@ -177,9 +185,17 @@ The cases below were published by others. The summaries are written in our own w
 
 **What the story does not show:** Thomas did not go silent towards his creditors. He answered and asked for deferrals. The story says nothing about collection fees, the enforcement officer or deductions. It shows the road into silence, not what the [silence flag](forslag.md) is meant to stop.
 
+#### Op-ed from the Forbundet Styrke union: "When debt becomes a life crisis"
+
+[Read the op-ed at Forbundet Styrke](https://styrke.no/nyhet/nar-gjeld-blir-en-livskrise/) (Torleif Sand, leader of Årdal Kjemiske Fagforening and LO i Hydro, 8 December 2025, in Norwegian, read 6 November 2026). This is an opinion piece, not a story about a particular person.
+
+**In short:** The author argues that suicide prevention must take the link between debt, mental health and system failure seriously. He describes an imagined course of events where a person stops opening their post, goes on sick leave and loses trust in the system and in themselves. According to him, the minimum amount a person should keep after deductions is often not respected, because the Tax Administration, the enforcement officer and NAV do not coordinate their deductions well enough. He points out that the new debt recovery act from January 2026 has a transition period until 2029. LO demands, among other things, an end to double deductions, respect for the minimum rates, the chance to talk to a person rather than only digital services, and letters in plain language.
+
+**What the piece shows:** that the trade union movement sees the same pattern: the silence, deductions that ignore what people actually have to live on, and nobody picking it up. The figures in the piece are the author's, and we have not checked them against the sources.
+
 ### If you are in the middle of it now
 
-The stories above are about suicide. If you need someone to talk to (Norway):
+Several of the pieces above are about suicide. If you need someone to talk to (Norway):
 
 - **Mental Helse helpline:** 116 123, open around the clock.
 - **Kirkens SOS:** 22 40 00 40, open around the clock.
