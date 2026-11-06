@@ -86,6 +86,14 @@ Sakene under er publisert av andre. Referatene er skrevet med våre egne ord. Te
 
 **Hva saken ikke viser:** Thomas ble ikke stille overfor kreditorene. Han svarte og ba om utsettelser. Saken sier ingenting om inkassogebyrer, namsmannen eller trekk. Den viser veien inn i stillheten, ikke det [stilleflagget](forslag.md) skal stoppe.
 
+#### Nettavisen: «Gjeld tok livet av hennes klienter»
+
+[Les saken hos Nettavisen](https://www.nettavisen.no/nyheter/gjeld-tok-livet-av-hennes-klienter/s/12-95-3179307) (datoen står ikke i teksten vi har, men tallene i saken går til 2010, så den er trolig fra rundt 2011; lest 6. november 2026). Saken er gammel, og tallene i den er det også.
+
+**Kort fortalt:** To kommunale gjeldsrådgivere i Telemark forteller at flere av klientene deres har dødd på grunn av gjelden, enten ved selvmord eller av rusproblemer etter mange år under hardt økonomisk press. Den ene har jobbet med gjeldsrådgivning i ti år og har hatt fem klienter på et halvt år hun var alvorlig bekymret for. Den andre forteller at hun har fått henvisninger fra akuttmottaket etter selvmordsforsøk. Mange slutter å åpne posten, og én klient kom med fem bæreposer uåpnede brev etter flere år. Rådgiveren skrev i starten brev til de statlige innkreverne om hvordan klientene hadde det, men fikk beskjed om at det ikke var relevant. Bare inntekter og utgifter telte. Hun beskriver også at ulike statlige innkrevere la inn trekk uten å sjekke trekkene som allerede lå inne.
+
+**Hva saken viser:** at mønsteret prosjektet beskriver var kjent for femten år siden. Stillheten, de uåpnede brevene, trekk som ikke ble samordnet, og et system som sa at hvordan folk hadde det, ikke var relevant.
+
 #### Kronikk i Forbundet Styrke: «Når gjeld blir en livskrise»
 
 [Les kronikken hos Forbundet Styrke](https://styrke.no/nyhet/nar-gjeld-blir-en-livskrise/) (Torleif Sand, leder i Årdal Kjemiske Fagforening og LO i Hydro, 8. desember 2025, lest 6. november 2026). Dette er et meningsinnlegg, ikke en historie om en bestemt person.
@@ -184,6 +192,14 @@ The cases below were published by others. The summaries are written in our own w
 **What the story shows:** how illness can lead to debt, that the debt is hidden from those closest, and that those who saw parts of the picture did not see the whole.
 
 **What the story does not show:** Thomas did not go silent towards his creditors. He answered and asked for deferrals. The story says nothing about collection fees, the enforcement officer or deductions. It shows the road into silence, not what the [silence flag](forslag.md) is meant to stop.
+
+#### Nettavisen: "Debt took the lives of her clients"
+
+[Read the story at Nettavisen](https://www.nettavisen.no/nyheter/gjeld-tok-livet-av-hennes-klienter/s/12-95-3179307) (in Norwegian; the date is not in the text we have, but its figures run to 2010, so it is probably from around 2011; read 6 November 2026). The story is old, and so are its figures.
+
+**In short:** Two municipal debt advisers in Telemark say that several of their clients have died because of their debt, either by suicide or from drug and alcohol problems after many years under heavy financial pressure. One has worked as a debt adviser for ten years and had five clients in half a year she was seriously worried about. The other says she has had referrals from the emergency department after suicide attempts. Many stop opening their post, and one client arrived with five carrier bags of unopened letters after several years. At first the adviser wrote to the state collectors about how her clients were doing, but was told it was not relevant. Only income and costs counted. She also describes different state collectors setting deductions without checking the ones already in place.
+
+**What the story shows:** that the pattern this project describes was known fifteen years ago. The silence, the unopened letters, deductions that were not coordinated, and a system that said how people were doing was not relevant.
 
 #### Op-ed from the Forbundet Styrke union: "When debt becomes a life crisis"
 
