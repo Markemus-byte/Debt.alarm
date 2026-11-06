@@ -62,7 +62,7 @@ See the [roadmap](ROADMAP.md), the [analysis](docs/analyse.md), the [legal map](
 
 The foundation phase is complete. Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md), [GOVERNANCE.md](GOVERNANCE.md) and the [code of conduct](CODE_OF_CONDUCT.md).
 
-Want to share an experience? Read [how to share safely](docs/del-trygt.md) first. Vil du dele en erfaring? Les [hvordan du deler trygt](docs/del-trygt.md) først.
+Want to share an experience? Read [how to share safely](docs/del-trygt.md) first. The first stories are collected in [Stories](docs/historier.md#english). Vil du dele en erfaring? Les [hvordan du deler trygt](docs/del-trygt.md) først. De første historiene finner du i [Historier](docs/historier.md).
 
 Do you work with debt advice, law, health care or social work? Help us [review the proposal](docs/gjennomgang.md#english). Jobber du med gjeldsrådgivning, juss, helse eller sosialt arbeid? Hjelp oss å [gå gjennom forslaget](docs/gjennomgang.md).
 
