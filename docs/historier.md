@@ -66,6 +66,16 @@ Alle så en del av bildet. Ingen så helheten, og ingen var pålagt å gjøre no
 
 Sakene under er publisert av andre. Referatene er skrevet med våre egne ord. Teksten og opphavsretten tilhører utgiveren, så les hele saken der.
 
+#### Ukom: «Betalingsvansker – en pasientsikkerhetsrisiko» (historien om Kristoffer)
+
+[Les rapporten hos Ukom](https://ukom.no/rapporter/betalingsvansker-en-pasientsikkerhetsrisiko) (Statens undersøkelseskommisjon for helse- og omsorgstjenesten, september 2022, lest 6. november 2026). «Kristoffer» er navnet rapporten bruker, ikke mannens egentlige navn.
+
+**Kort fortalt:** En ung mann med psykisk og somatisk sykdom og flere selvmordsforsøk bak seg tar livet sitt. Sykehuset kjente til både selvmordsforsøkene og den dårlige økonomien, og det sto flere ganger i journalen. Likevel ble han ilagt gebyr hver gang han ikke møtte til time, og kravene gikk til inkasso. Han la inkassobrevene i en eske og gjemte dem. Et varsel om rettslig pågang fra et sykehus kom ni dager før han døde, og en purring fra et annet sykehus kom fire dager etter. Moren meldte saken til Ukom.
+
+**Hva rapporten finner:** 374 615 polikliniske timer ble registrert som «ikke møtt» i 2019, og 20 til 50 prosent av pasientene fikk gebyret flere ganger. Rapporten gjengir at én av fire inkassosaker i spesialisthelsetjenesten gjelder «ikke møtt»-gebyr. Gebyret inngår ikke i frikortet. Det finnes ikke gode systemer for å fange opp pasienter med betalingsvansker, og det er tilfeldig hvem som blir fanget opp. Hjelpen stopper ofte på taushetsplikten: behandleren må ha pasientens samtykke for å kontakte NAV eller fastlegen, og ingen av helseforetakene hadde faste samarbeidsrutiner med NAV ([kapittel 7](https://ukom.no/rapporter/betalingsvansker-en-pasientsikkerhetsrisiko/det-kan-vaere-vanskelig-a-hjelpe-pasienter-med-betalingsvansker)). Ukom anbefaler blant annet at ordningen evalueres, og at pasienter med store betalingsvansker ikke skal få inkassokrav fra helsetjenesten.
+
+**Hva saken viser:** nesten hele mønsteret dette prosjektet handler om. Den som visste, gjorde ikke noe med det. Stillheten (timer som ikke ble møtt, brev som ble gjemt) utløste gebyrer og inkasso i stedet for hjelp, og kravene fortsatte å komme etter dødsfallet.
+
 #### NRK: «Thomas ville heller dø enn å fortelle om gjelden»
 
 [Les saken hos NRK](https://www.nrk.no/dokumentar/xl/thomas-ville-heller-do-enn-a-fortelle-om-gjelden.-det-startet-med-et-kredittkort.-1.16418551) (lest 6. november 2026). «Thomas» er ikke mannens egentlige navn.
@@ -78,7 +88,7 @@ Sakene under er publisert av andre. Referatene er skrevet med våre egne ord. Te
 
 ### Hvis du står midt i det nå
 
-Saken over handler om selvmordstanker. Trenger du noen å snakke med:
+Sakene over handler om selvmord. Trenger du noen å snakke med:
 
 - **Mental Helses hjelpetelefon:** 116 123, døgnåpen.
 - **Kirkens SOS:** 22 40 00 40, døgnåpen.
@@ -147,6 +157,16 @@ Everyone saw part of the picture. Nobody saw the whole, and nobody was required 
 
 The cases below were published by others. The summaries are written in our own words. The text and copyright belong to the publisher, so read the full story there.
 
+#### Ukom: "Payment difficulties – a patient safety risk" (Kristoffer's story)
+
+[Read the report at Ukom](https://ukom.no/rapporter/betalingsvansker-en-pasientsikkerhetsrisiko) (the Norwegian Healthcare Investigation Board, September 2022, in Norwegian with an English summary, read 6 November 2026). "Kristoffer" is the name the report uses, not the man's real name.
+
+**In short:** A young man with mental and physical illness and several suicide attempts behind him takes his own life. The hospital knew about both the suicide attempts and his poor finances, and it was noted several times in his records. Even so, he was charged a fee every time he missed an appointment, and the claims went to debt collection. He put the collection letters in a box and hid them. A notice of legal action from one hospital arrived nine days before he died, and a reminder from another hospital arrived four days after. His mother reported the case to Ukom.
+
+**What the report finds:** 374,615 outpatient appointments were registered as "did not attend" in 2019, and 20 to 50 per cent of patients got the fee more than once. The report quotes that one in four collection cases in specialist health care concerns the no-show fee. The fee does not count towards the exemption card (frikort). There are no good systems for spotting patients with payment difficulties, and who gets spotted is down to chance. Help often stops at confidentiality: the clinician needs the patient's consent to contact NAV or the GP, and none of the health trusts had established routines for working with NAV ([chapter 7](https://ukom.no/rapporter/betalingsvansker-en-pasientsikkerhetsrisiko/det-kan-vaere-vanskelig-a-hjelpe-pasienter-med-betalingsvansker)). Among other things, Ukom recommends evaluating the scheme and making sure patients with serious payment difficulties do not get collection claims from the health service.
+
+**What the case shows:** almost the whole pattern this project is about. Those who knew did nothing with it. The silence (missed appointments, hidden letters) triggered fees and debt collection instead of help, and the claims kept coming after his death.
+
 #### NRK: "Thomas would rather die than tell anyone about his debt"
 
 [Read the story at NRK](https://www.nrk.no/dokumentar/xl/thomas-ville-heller-do-enn-a-fortelle-om-gjelden.-det-startet-med-et-kredittkort.-1.16418551) (in Norwegian, read 6 November 2026). "Thomas" is not the man's real name.
@@ -159,7 +179,7 @@ The cases below were published by others. The summaries are written in our own w
 
 ### If you are in the middle of it now
 
-The story above is about suicidal thoughts. If you need someone to talk to (Norway):
+The stories above are about suicide. If you need someone to talk to (Norway):
 
 - **Mental Helse helpline:** 116 123, open around the clock.
 - **Kirkens SOS:** 22 40 00 40, open around the clock.
