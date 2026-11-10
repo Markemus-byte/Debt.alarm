@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Landfast er et åpent forslag om å stoppe inkassogebyrer når noen slutter å svare, og hjelpe folk tilbake til fast grunn.">
+<meta property="og:title" content="Landfast – fra stille til stabil">
+<meta property="og:description" content="Når noen slutter å svare, skal gebyrene stoppe. Et åpent forslag – si din mening.">
+<meta name="referrer" content="no-referrer">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Landfast</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&family=Martian+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: et stille, luftig enkeltspor som et brev. Grafen over hvordan gjelden vokser bryter ut i full bredde og bærer argumentet. */
+:root {
+  --bg: #F1F2F5;
+  --surface: #FFFFFF;
+  --fg: #1A1E28;
+  --mute: #5A6070;
+  --rule: #D5D8E0;
+  --flag: #2462C4;
+  --today: #C4472B;
+  --flag-soft: #E3EBF8;
+  --display: "Familjen Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --body: "Literata", Georgia, "Times New Roman", serif;
+  --mono: "Martian Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12161F; --surface: #1A2030; --fg: #E8E6E1; --mute: #9AA0AE; --rule: #2C3344;
+    --flag: #3E86E8; --today: #E36A47; --flag-soft: #1C2B45;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12161F; --surface: #1A2030; --fg: #E8E6E1; --mute: #9AA0AE; --rule: #2C3344;
+  --flag: #3E86E8; --today: #E36A47; --flag-soft: #1C2B45;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--body);
+  font-size: 18px;
+  line-height: 1.65;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 56px 72px;
+}
+.wrap { max-width: 980px; margin: 0 auto; display: flex; flex-direction: column; gap: 64px; }
+.col { max-width: 64ch; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; line-height: 1.1; }
+h1 { font-size: clamp(40px, 7vw, 76px); font-weight: 700; letter-spacing: -.02em; }
+h2 { font-size: clamp(28px, 4vw, 38px); font-weight: 700; letter-spacing: -.01em; }
+h3 { font-size: 21px; font-weight: 600; }
+p { margin: 0; }
+a { color: var(--flag); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid var(--flag); outline-offset: 3px; }
+.stack { display: flex; flex-direction: column; gap: 16px; }
+.eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--mute); }
+.lede { font-size: 22px; }
+.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+/* Flag mark in hero */
+.mark { display: flex; align-items: center; gap: 12px; }
+.mark svg { flex: none; }
+.mark span { font-family: var(--display); font-weight: 700; font-size: 20px; }
+
+/* Chart */
+.chartbox { background: var(--surface); border: 1px solid var(--rule); border-radius: 4px; padding: 20px; display: flex; flex-direction: column; gap: 14px; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 24px; font-family: var(--mono); font-size: 13px; color: var(--fg); }
+.legend i { display: inline-block; width: 18px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 8px; }
+.plot { position: relative; overflow-x: auto; }
+.plot svg { display: block; width: 100%; min-width: 600px; height: auto; }
+.plot text { font-family: var(--mono); font-size: 11.5px; fill: var(--mute); }
+.plot .lbl { fill: var(--fg); font-size: 12.5px; font-weight: 500; }
+.tip {
+  position: absolute; pointer-events: none; background: var(--fg); color: var(--bg);
+  font-family: var(--mono); font-size: 12.5px; line-height: 1.5; padding: 8px 10px; border-radius: 3px;
+  white-space: nowrap; transform: translate(-50%, calc(-100% - 10px));
+}
+.note { font-size: 15px; color: var(--mute); }
+details summary { cursor: pointer; font-family: var(--mono); font-size: 13px; color: var(--mute); }
+.tbl { overflow-x: auto; margin-top: 10px; }
+table { border-collapse: collapse; width: 100%; min-width: 520px; font-size: 15px; }
+th, td { text-align: left; padding: 8px 10px 8px 0; border-bottom: 1px solid var(--rule); }
+th { font-family: var(--mono); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--mute); font-weight: 400; }
+td.r, th.r { text-align: right; font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+/* Steps */
+.steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 0; border-top: 2px solid var(--fg); }
+.steps li { padding: 18px 18px 18px 0; display: flex; flex-direction: column; gap: 6px; border-bottom: 1px solid var(--rule); min-width: 0; }
+.steps .day { font-family: var(--mono); font-size: 12.5px; color: var(--flag); letter-spacing: .04em; }
+.steps p { font-size: 16px; }
+
+.two { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px 48px; }
+.two > div { min-width: 0; }
+ul.plain { margin: 0; padding-left: 1.1em; display: flex; flex-direction: column; gap: 8px; }
+ul.plain li::marker { color: var(--flag); }
+
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px 32px; }
+.facts div { display: flex; flex-direction: column; gap: 4px; border-top: 1px solid var(--rule); padding-top: 12px; }
+.facts b { font-family: var(--display); font-size: 34px; font-weight: 700; line-height: 1.05; }
+.facts span { font-size: 15px; color: var(--mute); }
+
+/* Call for input */
+.call { background: var(--flag-soft); border-radius: 4px; padding: 28px; display: flex; flex-direction: column; gap: 18px; }
+.ways { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+.way { background: var(--surface); border: 1px solid var(--rule); border-radius: 4px; padding: 16px; display: flex; flex-direction: column; gap: 8px; text-decoration: none; color: var(--fg); min-width: 0; }
+.way:hover { border-color: var(--flag); }
+.way strong { font-family: var(--display); font-size: 19px; }
+.way span { font-size: 15px; color: var(--mute); }
+.way em { font-style: normal; font-family: var(--mono); font-size: 12.5px; color: var(--flag); margin-top: auto; }
+
+.help { border: 2px solid var(--fg); border-radius: 4px; padding: 22px; display: flex; flex-direction: column; gap: 12px; }
+.help dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 18px; margin: 0; }
+.help dt { font-family: var(--mono); font-variant-numeric: tabular-nums; font-weight: 500; user-select: all; }
+.help dd { margin: 0; color: var(--mute); }
+
+footer { font-size: 15px; color: var(--mute); border-top: 1px solid var(--rule); padding-top: 18px; display: flex; flex-direction: column; gap: 8px; }
+@media (max-width: 520px) {
+  body { font-size: 17px; }
+  .lede { font-size: 19px; }
+  .help dl { grid-template-columns: 1fr; gap: 0 0; }
+  .help dd { margin-bottom: 8px; }
+}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="stack col">
+    <div class="mark">
+      <svg width="44" height="28" viewBox="0 0 44 28" aria-hidden="true"><rect x="0" y="21" width="13" height="7" rx="1" fill="var(--fg)"/><ellipse cx="35" cy="24" rx="9" ry="4" fill="var(--flag)"/><path d="M9 21 Q21 4 32 20.5" fill="none" stroke="var(--fg)" stroke-width="2.5" stroke-linecap="round"/></svg>
+      <span>Landfast</span>
+      <span class="eyebrow" style="font-weight:400">Fra stille til stabil</span>
+    </div>
+    <h1>Når noen slutter å svare, skal gebyrene stoppe.</h1>
+    <p class="lede">Folk blir stille av ekte grunner: alvorlig sykdom, psykisk krise, sykehus eller død. I dag fortsetter inkassoen å legge på kostnader, og ingen har plikt til å spørre hvorfor. Landfast er et åpent forslag som gjør stillhet til et varsel, og som hjelper folk tilbake til fast grunn.</p>
+    <p class="eyebrow">Åpent forslag · versjon 1 · november 2026</p>
+  </header>
+
+  <section class="stack" aria-labelledby="vekst">
+    <div class="col stack">
+      <h2 id="vekst">En tusenlapp blir nesten fem tusen</h2>
+      <p>Slik vokser en ubetalt regning på 1 000 kr når ingen svarer. Med Landfast ville veksten stoppet før tungt salær.</p>
+    </div>
+    <div class="chartbox">
+      <div class="legend" aria-hidden="true">
+        <span><i style="background:var(--today)"></i>Slik er det i dag</span>
+        <span><i style="background:var(--flag)"></i>Med Landfast</span>
+      </div>
+      <div class="plot" id="plot">
+        <svg id="chart" viewBox="0 0 720 320" role="img" aria-label="Trappediagram. I dag vokser 1 000 kr til 4 956 kr etter cirka 175 dager. Med Landfast stopper beløpet på 1 670 kr fra dag 56.">
+          <g stroke="var(--rule)" stroke-width="1">
+            <line x1="60" y1="280" x2="700" y2="280"/>
+            <line x1="60" y1="228" x2="700" y2="228"/>
+            <line x1="60" y1="176" x2="700" y2="176"/>
+            <line x1="60" y1="124" x2="700" y2="124"/>
+            <line x1="60" y1="72" x2="700" y2="72"/>
+            <line x1="60" y1="20" x2="700" y2="20"/>
+          </g>
+          <g text-anchor="end">
+            <text x="52" y="284">0</text>
+            <text x="52" y="232">1 000</text>
+            <text x="52" y="180">2 000</text>
+            <text x="52" y="128">3 000</text>
+            <text x="52" y="76">4 000</text>
+            <text x="52" y="24">5 000 kr</text>
+          </g>
+          <g text-anchor="middle">
+            <text x="60" y="302">dag 0</text>
+            <text x="166.7" y="302">30</text>
+            <text x="273.3" y="302">60</text>
+            <text x="380" y="302">90</text>
+            <text x="486.7" y="302">120</text>
+            <text x="593.3" y="302">150</text>
+            <text x="700" y="302">180</text>
+          </g>
+          <line x1="358.7" y1="20" x2="358.7" y2="280" stroke="var(--flag)" stroke-width="1" stroke-dasharray="3 4"/>
+          <text x="364" y="40" class="lbl" style="fill:var(--flag)">Dag 84: flagget sjekkes</text>
+          <text x="364" y="56">før tungt salær</text>
+          <path d="M60,228 H109.8 V224.5 H159.6 V221 H209.3 V210.6 H259.1 V193.2 H358.7 V158.3 H682.2 V22.3 H700" fill="none" stroke="var(--today)" stroke-width="2" stroke-linejoin="round"/>
+          <path d="M259.1,193.2 H700" fill="none" stroke="var(--surface)" stroke-width="6"/>
+          <path d="M259.1,193.2 H700" fill="none" stroke="var(--flag)" stroke-width="2"/>
+          <circle cx="682.2" cy="22.3" r="4.5" fill="var(--today)" stroke="var(--surface)" stroke-width="2"/>
+          <circle cx="700" cy="193.2" r="4.5" fill="var(--flag)" stroke="var(--surface)" stroke-width="2"/>
+          <text x="672" y="26" text-anchor="end" class="lbl">4 956 kr i dag</text>
+          <text x="696" y="213" text-anchor="end" class="lbl">1 670 kr med Landfast</text>
+          <line id="cross" x1="0" y1="20" x2="0" y2="280" stroke="var(--mute)" stroke-width="1" visibility="hidden"/>
+          <g id="hits"></g>
+        </svg>
+        <div class="tip" id="tip" hidden></div>
+      </div>
+      <p class="note">Kilde: Smarte Penger 2016, med satsen fra 2016 (670 kr) og uten forsinkelsesrenter. Inkassosatsen er 750 kr i 2026, så beløpene er høyere i dag. Linjen med Landfast er forenklet: den viser at ingen nye kostnader legges på etter lett inkasso.</p>
+      <details>
+        <summary>Vis tallene som tabell</summary>
+        <div class="tbl">
+          <table>
+            <thead><tr><th>Dag</th><th>Steg</th><th class="r">I dag</th><th class="r">Med Landfast</th></tr></thead>
+            <tbody id="rows"></tbody>
+          </table>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <section class="stack" aria-labelledby="slik">
+    <h2 id="slik">Slik virker flagget</h2>
+    <ol class="steps">
+      <li><span class="day">Dag 0</span><h3>Inkassovarsel</h3><p>Saken går som i dag.</p></li>
+      <li><span class="day">Etter 60 dager uten svar</span><h3>Flagget settes</h3><p>Ingen svar på brev, digital post, SMS eller telefon, og ingen betaling.</p></li>
+      <li><span class="day">Mens flagget står</span><h3>Gebyrene stopper</h3><p>Ingen nye kostnader, ingen renter, ingen rettslige skritt. Høyst seks måneder.</p></li>
+      <li><span class="day">Samtidig</span><h3>NAV tar kontakt</h3><p>NAV får bare navn og adresse, og tilbyr økonomisk rådgivning.</p></li>
+      <li><span class="day">Etter 90 nye dager</span><h3>Velferdssjekk</h3><p>Kommunen sjekker at personen har det bra. Var personen død, slettes alle kostnader etter dødsdagen.</p></li>
+    </ol>
+  </section>
+
+  <section class="two">
+    <div class="stack">
+      <h2>Vern mot misbruk</h2>
+      <ul class="plain">
+        <li>Gjelden består. Flagget stopper bare at den vokser.</li>
+        <li>Den som tar kontakt, får fjernet flagget og en betalingsplan etter evne.</li>
+        <li>Flagget varer høyst seks måneder.</li>
+        <li>Flagget er bare ja eller nei. Ingen beløp, diagnoser eller kreditornavn.</li>
+        <li>Finanstilsynet fører tilsyn.</li>
+      </ul>
+    </div>
+    <div class="stack">
+      <h2>Hvorfor nå</h2>
+      <div class="facts">
+        <div><b class="num">11,7 mill.</b><span>nye inkassosaker i 2025</span></div>
+        <div><b class="num">133 mrd. kr</b><span>til inkasso ved utgangen av 2025</span></div>
+        <div><b class="num">750 kr</b><span>inkassosatsen i 2026, opp fra 700 kr</span></div>
+      </div>
+      <p>Den nye inkassoloven fra april 2026 krever hensyn til folk i en vanskelig situasjon. Men den forutsetter at skyldneren selv tar kontakt. Når noen blir helt stille, utløser loven ingenting, og den nevner ikke død.</p>
+    </div>
+  </section>
+
+  <section class="call" aria-labelledby="mening">
+    <div class="col stack">
+      <span class="eyebrow">Innspillsrunde</span>
+      <h2 id="mening">Hva mener du? Hva mangler?</h2>
+      <p>Forslaget er ikke ferdig. Vi vil vite hva folk flest mener, og særlig hva gjeldsrådgivere, jurister, helsearbeidere, pårørende og folk i inkassobransjen ser som vi ikke har sett. Er 60 og 90 dager riktige frister? Hvem bør drive flaggtjenesten? Hvordan unngår vi at flagget blir et stempel?</p>
+    </div>
+    <div class="ways">
+      <a class="way" href="https://github.com/Markemus-byte/Debt.alarm/discussions" target="_blank" rel="noopener"><strong>Si din mening</strong><span>Skriv i den åpne diskusjonen. Alle kan lese og svare.</span><em>GitHub Discussions →</em></a>
+      <a class="way" href="https://github.com/Markemus-byte/Debt.alarm/issues/new/choose" target="_blank" rel="noopener"><strong>Del en erfaring</strong><span>Har du eller noen du kjenner opplevd dette? Les veiledningen om å dele trygt først.</span><em>Ny sak på GitHub →</em></a>
+      <a class="way" href="https://github.com/Markemus-byte/Debt.alarm/blob/main/docs/forslag.md" target="_blank" rel="noopener"><strong>Les hele forslaget</strong><span>Alle delene, lovendringene og de åpne spørsmålene.</span><em>docs/forslag.md →</em></a>
+    </div>
+    <p class="note">Skriv aldri navn, personnummer eller saksnummer på deg selv eller andre. Alt på GitHub er offentlig.</p>
+  </section>
+
+  <section class="two">
+    <div class="stack">
+      <h2>Vil du teste det i praksis?</h2>
+      <p>Vi søker en pilotpartner: et inkassobyrå, en bank eller en kommune som vil prøve flagget i egen saksflyt. Partneren får en uavhengig rapport om hvordan det virker. En pilot koster fra 200 000 kr per år. Stiftelser kan støtte uten eierandel.</p>
+      <p>Koden er åpen og skal forbli det. Ta kontakt i diskusjonen på GitHub.</p>
+    </div>
+    <div class="help" role="note" aria-labelledby="hjelp">
+      <h3 id="hjelp">Trenger du hjelp nå?</h3>
+      <dl>
+        <dt>55 55 33 39</dt><dd>NAVs økonomiske rådgivning</dd>
+        <dt>116 123</dt><dd>Mental Helse hjelpetelefon, døgnåpen</dd>
+        <dt>22 40 00 40</dt><dd>Kirkens SOS, døgnåpen</dd>
+        <dt>113</dt><dd>Akutt fare for liv</dd>
+      </dl>
+    </div>
+  </section>
+
+  <footer>
+    <p>Landfast ble startet 18. oktober 2026 av Markemus-byte som prosjektet Debt.alarm. Tekst under CC BY-SA 4.0, kode under AGPL-3.0. Alle påstander har kilde i <a href="https://github.com/Markemus-byte/Debt.alarm/blob/main/docs/analyse.md" target="_blank" rel="noopener">analysen</a>.</p>
+    <p>Ingen personopplysninger om ekte skyldnere publiseres noen gang.</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var steps = [
+    [0, 14, 'Ubetalt regning', 1000, 1000],
+    [14, 28, 'Purring', 1067, 1067],
+    [28, 42, 'Inkassovarsel', 1134, 1134],
+    [42, 56, 'Betalingsoppfordring', 1335, 1335],
+    [56, 84, 'Lett inkasso', 1670, 1670],
+    [84, 175, 'Tung inkasso', 2340, 1670],
+    [175, 180, 'Forliksråd og lønnstrekk', 4956, 1670]
+  ];
+  var fmt = function (n) { return n.toLocaleString('nb-NO').replace(/ /g, ' ') + ' kr'; };
+  var x = function (d) { return 60 + d * 640 / 180; };
+  var ns = 'http://www.w3.org/2000/svg';
+  var hits = document.getElementById('hits'), tip = document.getElementById('tip');
+  var cross = document.getElementById('cross'), svg = document.getElementById('chart'), plot = document.getElementById('plot');
+  var rows = document.getElementById('rows');
+  steps.forEach(function (s) {
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td class="num">' + (s[0] === 175 ? 'ca. 175' : s[0]) + '</td><td>' + s[2] + '</td><td class="r">' + fmt(s[3]) + '</td><td class="r">' + fmt(s[4]) + '</td>';
+    rows.appendChild(tr);
+    var r = document.createElementNS(ns, 'rect');
+    r.setAttribute('x', x(s[0])); r.setAttribute('y', 20);
+    r.setAttribute('width', x(s[1]) - x(s[0])); r.setAttribute('height', 260);
+    r.setAttribute('fill', 'transparent');
+    function show(ev) {
+      var mid = (x(s[0]) + x(s[1])) / 2;
+      cross.setAttribute('x1', mid); cross.setAttribute('x2', mid); cross.setAttribute('visibility', 'visible');
+      tip.innerHTML = '<b>' + s[2] + '</b> · dag ' + s[0] + '<br>I dag: ' + fmt(s[3]) + '<br>Med Landfast: ' + fmt(s[4]);
+      var box = svg.getBoundingClientRect(), pb = plot.getBoundingClientRect();
+      var px = box.left - pb.left + plot.scrollLeft + mid * box.width / 720;
+      var py = box.top - pb.top + 90 * box.height / 320;
+      tip.style.left = px + 'px'; tip.style.top = py + 'px'; tip.hidden = false;
+    }
+    r.addEventListener('mouseenter', show);
+    r.addEventListener('mousemove', show);
+    r.addEventListener('touchstart', show, { passive: true });
+    r.addEventListener('mouseleave', function () { tip.hidden = true; cross.setAttribute('visibility', 'hidden'); });
+    hits.appendChild(r);
+  });
+})();
+</script>
+</body>
+</html>
